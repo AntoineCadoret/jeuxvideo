@@ -1,0 +1,12 @@
+body{
+    background-repeat:no-repeat;
+    background-image: url("projetjeu/gr1_CadoretA_plancheJeu/banniere_jeu.png");
+    background-position-x: center;
+}
+body div {
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
